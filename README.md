@@ -4,6 +4,9 @@ YYJ Tech is a community of professionals, hackers, designers, students and anyon
 in Victoria, British Columbia (Canada). Please read the [Code of Conduct](https://github.com/yyjtech/code-of-conduct)
 and feel free to join the [Slack Channel](http://joinyyjtechslack.herokuapp.com/).
 
+The [YYJ Tech Event Calendar](https://calendar.google.com/calendar/embed?src=sendwithus.com_mtcc2tnj8c54c5dhls5errns6c@group.calendar.google.com&ctz=America/Vancouver) contains the upcoming tech events in Victoria.
+
 # Useful Links
 * [https://github.com/yyjtech/code-of-conduct](https://github.com/yyjtech/code-of-conduct)
 * [http://joinyyjtechslack.herokuapp.com/](http://joinyyjtechslack.herokuapp.com/)
+* [https://calendar.google.com/calendar/embed?src=sendwithus.com_mtcc2tnj8c54c5dhls5errns6c@group.calendar.google.com&ctz=America/Vancouver](https://calendar.google.com/calendar/embed?src=sendwithus.com_mtcc2tnj8c54c5dhls5errns6c@group.calendar.google.com&ctz=America/Vancouver)
