@@ -9,4 +9,4 @@ The [YYJ Tech Event Calendar](https://calendar.google.com/calendar/embed?src=sen
 # Useful Links
 * [Code of Condcut](https://github.com/yyjtech/code-of-conduct)
 * [Slack Channel](http://joinyyjtechslack.herokuapp.com/)
-* [YYJ Tech Calendar](https://calendar.google.com/calendar/embed?src=sendwithus.com_mtcc2tnj8c54c5dhls5errns6c@group.calendar.google.com&ctz=America/Vancouver)
+* [YYJ Tech Calendar](https://calendar.google.com/calendar/embed?src=techyyj@gmail.com&ctz=America/Vancouver)
