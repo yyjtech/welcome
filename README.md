@@ -10,3 +10,4 @@ The [YYJ Tech Event Calendar](https://calendar.google.com/calendar/embed?src=tec
 * [Code of Condcut](https://github.com/yyjtech/code-of-conduct)
 * [Slack Channel](https://joinyyjtechslack.herokuapp.com/)
 * [YYJ Tech Calendar](https://calendar.google.com/calendar/embed?src=techyyj@gmail.com&ctz=America/Vancouver)
+* [Victoria Startup Jobs](https://github.com/sendwithus/vic-startup-jobs)
