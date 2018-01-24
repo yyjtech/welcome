@@ -7,7 +7,8 @@ and feel free to join the [Slack Channel](https://joinyyjtechslack.herokuapp.com
 The [YYJ Tech Event Calendar](https://calendar.google.com/calendar/embed?src=techyyj@gmail.com&ctz=America/Vancouver) contains the upcoming tech events in Victoria.
 
 # Useful Links
-* [Code of Condcut](https://github.com/yyjtech/code-of-conduct)
+* [Code of Conduct](https://github.com/yyjtech/code-of-conduct)
 * [Slack Channel](https://joinyyjtechslack.herokuapp.com/)
 * [YYJ Tech Calendar](https://calendar.google.com/calendar/embed?src=techyyj@gmail.com&ctz=America/Vancouver)
+* [Victoria Startup Jobs](https://github.com/sendwithus/vic-startup-jobs)
 * [Victoria Tech Mentorship List](https://github.com/jerrett/vic-tech-mentorship/blob/master/README.md)
